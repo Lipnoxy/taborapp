@@ -4,7 +4,7 @@
 
 TaborApp je spletni informacijski sistem za podporo delovanju taborniškega rodu. Omogoča upravljanje članstva, dogodkov, prijav na dogodke, kataloga izdelkov in naročil rodovih izdelkov.
 
-Projekt je razvit v okviru predmeta **Računalniške storitve v oblaku** v študijskem letu 2026/27.
+Projekt je v okviru predmeta **Računalniške storitve v oblaku** v študijskem letu 2026/27.
 
 ## Funkcionalnosti
 
@@ -37,8 +37,8 @@ Predvidene mikrostoritve:
 
 ## Status projekta
 
-Projekt je trenutno v fazi načrtovanja. Tehnologije in arhitektura se lahko med implementacijo prilagodijo zahtevam predmeta in razpoložljivi infrastrukturi.
+Projekt je trenutno v fazi načrtovanja. Tehnologije in arhitekturo bom sproti prilagajal.
 
 ## Avtor
 
-Tim Lipnik – skupina Azimut
+Tim Lipnik – "ekipa" Azimut
